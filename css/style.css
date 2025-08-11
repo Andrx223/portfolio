@@ -108,10 +108,18 @@ section.works li p span{
 
 
 
-
+/* ===========================================FIM========================== */
 
 
 footer nav a{
     color: #142850;
     font-size: 3rem;
+    padding: 1rem;
+    
+}
+footer{
+    text-align: center;
+}
+footer nav{
+    margin: 2rem 0 2rem 0;
 }
